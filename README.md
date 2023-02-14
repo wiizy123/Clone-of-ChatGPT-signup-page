@@ -1,1 +1,1 @@
-# Clone-of-ChatGPT-signup-page
+# Clone-of- a responsive ChatGPT-signup-page
